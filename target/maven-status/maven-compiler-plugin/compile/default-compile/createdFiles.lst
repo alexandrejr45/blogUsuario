@@ -1,0 +1,7 @@
+com\gambiarra\blogusuario\bean\UsuarioBean.class
+com\gambiarra\blogusuario\entidade\Usuario_.class
+com\gambiarra\blogusuario\util\JPAUtil.class
+com\gambiarra\blogusuario\entidade\Publicacao_.class
+com\gambiarra\blogusuario\entidade\Usuario.class
+com\gambiarra\blogusuario\dao\UsuarioDAO.class
+com\gambiarra\blogusuario\entidade\Publicacao.class

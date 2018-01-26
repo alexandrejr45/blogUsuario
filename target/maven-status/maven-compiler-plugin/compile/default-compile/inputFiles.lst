@@ -1,2 +1,5 @@
-C:\Users\alexandre\Documents\NetBeansProjects\blogUsuario\src\main\java\com\gambiarra\blogusuario\dao\Publicacao.java
-C:\Users\alexandre\Documents\NetBeansProjects\blogUsuario\src\main\java\com\gambiarra\blogusuario\dao\Usuario.java
+C:\Users\alexandre\Documents\NetBeansProjects\blogUsuario\src\main\java\com\gambiarra\blogusuario\entidade\Publicacao.java
+C:\Users\alexandre\Documents\NetBeansProjects\blogUsuario\src\main\java\com\gambiarra\blogusuario\entidade\Usuario.java
+C:\Users\alexandre\Documents\NetBeansProjects\blogUsuario\src\main\java\com\gambiarra\blogusuario\dao\UsuarioDAO.java
+C:\Users\alexandre\Documents\NetBeansProjects\blogUsuario\src\main\java\com\gambiarra\blogusuario\util\JPAUtil.java
+C:\Users\alexandre\Documents\NetBeansProjects\blogUsuario\src\main\java\com\gambiarra\blogusuario\bean\UsuarioBean.java

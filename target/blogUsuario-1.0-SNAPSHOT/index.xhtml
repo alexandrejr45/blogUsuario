@@ -9,9 +9,22 @@
         <title>Facelet Title</title>
     </h:head>
     <h:body>
-        <h:outputLabel class="ui ui-12" for="nome">Nome</h:outputLabel>
+        <h:outputLabel class="ui ui-12" for="nome">Cadastro de Usuario</h:outputLabel>
         
-        Hello from Facelets
+        <h:form>
+            <h:panelGrid columns="2">
+                
+                Nome: <h:inputText value="#{usuarioBean.usuario.nome}" required="true" />
+                Data de Nascimento: <h:inputText value="#{usuarioBean.data}" required="true" />
+                Telefone: <h:inputText value="#{usuarioBean.usuario.telefone}" required="true" />
+                
+                
+                <h:commandButton value="Salvar" action="#{usuarioBean.salvar(usuarioBean.usuario)}" />
+            </h:panelGrid>
+     
+            
+        </h:form>
+        
     </h:body>
 </html>
 
